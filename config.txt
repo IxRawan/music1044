@@ -1,6 +1,6 @@
-token= NTM0NDE0Mjg2NDMzNTUwMzk2.Dx5Pwg.4b7vV1sKk4gg4oiS2ZJMYdY9qmA
-owner= 458434275453173761 
-prefix=<
-game= <help
+token= NTU2ODMxODA1NTAwODE3NDE5.D2_d1g.RpXB2qs5EPgjgtxiXwzH2IAOn5I
+owner= 516307527806484490 
+prefix= R
+game= Private Bot
 stayinchannel=true
-songinstatus=false
+songinstatus=true
